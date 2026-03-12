@@ -1,0 +1,6 @@
+name: AElo
+version: '${version}'
+main: kz.ifihtich.aelo.AElo
+depend: [PlaceholderAPI]
+commands:
+  aelo:
